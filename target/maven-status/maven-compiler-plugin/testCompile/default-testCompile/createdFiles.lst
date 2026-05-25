@@ -1,0 +1,5 @@
+com/parkinglot/service/ParkingServiceTest.class
+com/parkinglot/strategy/PricingStrategyTest.class
+com/parkinglot/controller/ParkingControllerIntegrationTest.class
+com/parkinglot/strategy/PricingStrategyFactoryTest.class
+com/parkinglot/repository/ParkingLotRepositoryTest.class

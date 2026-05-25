@@ -1,0 +1,235 @@
+{
+  "id" : "PL-001",
+  "name" : "Central Parking",
+  "address" : "123 Main Street, Downtown",
+  "floors" : [ {
+    "id" : "aa3dcf4e-7177-41a7-9b00-d1395492f302",
+    "floorNumber" : 1,
+    "spots" : [ {
+      "id" : "131388eb-3000-4f14-85c8-277c8f2a2cd6",
+      "spotNumber" : "F1-S1",
+      "type" : "SMALL",
+      "occupied" : true,
+      "vehicleId" : "b297d86b-8963-4777-b60c-6b6ed49dc173"
+    }, {
+      "id" : "841540b9-4cea-474f-a83d-453441104bac",
+      "spotNumber" : "F1-S2",
+      "type" : "SMALL",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "2d08ffa5-2993-4354-b733-3a81c7cbe114",
+      "spotNumber" : "F1-S3",
+      "type" : "SMALL",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "6cc819dd-227e-4269-b143-85855ab35dfd",
+      "spotNumber" : "F1-S4",
+      "type" : "SMALL",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "2389ead2-9e82-4067-9ece-0aa925c87c0e",
+      "spotNumber" : "F1-S5",
+      "type" : "SMALL",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "733bcc5a-6905-41ae-a8c5-c475238efd9e",
+      "spotNumber" : "F1-M1",
+      "type" : "MEDIUM",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "c6d445d1-7952-4f52-ba91-e72532dd862c",
+      "spotNumber" : "F1-M2",
+      "type" : "MEDIUM",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "291d9e1e-f973-48ec-a052-4bdf0f6112a3",
+      "spotNumber" : "F1-M3",
+      "type" : "MEDIUM",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "a9f52503-8242-47cf-985c-aa919d38ce0f",
+      "spotNumber" : "F1-M4",
+      "type" : "MEDIUM",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "264ba239-dc51-47f6-98cd-25d476e46819",
+      "spotNumber" : "F1-M5",
+      "type" : "MEDIUM",
+      "occupied" : false,
+      "vehicleId" : null
+    } ]
+  }, {
+    "id" : "a5c63050-23fa-4e6c-835e-f9ce52c24b36",
+    "floorNumber" : 2,
+    "spots" : [ {
+      "id" : "82014678-aef4-4f37-a8c0-a6e5179d9f7e",
+      "spotNumber" : "F2-M1",
+      "type" : "MEDIUM",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "bf0254bb-8bd9-4caa-8a39-6973763fcb17",
+      "spotNumber" : "F2-M2",
+      "type" : "MEDIUM",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "561e9ef5-f3ab-499f-af22-4ee73d0e885d",
+      "spotNumber" : "F2-M3",
+      "type" : "MEDIUM",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "771ee240-f525-4e75-9a27-615a7190d580",
+      "spotNumber" : "F2-M4",
+      "type" : "MEDIUM",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "0a9cde60-6ece-4533-b141-f1e26b4f595d",
+      "spotNumber" : "F2-M5",
+      "type" : "MEDIUM",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "ea275404-9ca5-45be-a188-63044e97fd3d",
+      "spotNumber" : "F2-L1",
+      "type" : "LARGE",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "1cca7bd2-f3b9-4c6c-9781-ba009edb26d3",
+      "spotNumber" : "F2-L2",
+      "type" : "LARGE",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "38348e8a-5369-4eaa-b039-6248a037f859",
+      "spotNumber" : "F2-L3",
+      "type" : "LARGE",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "33683e17-826d-4197-88bc-08a97e84f403",
+      "spotNumber" : "F2-L4",
+      "type" : "LARGE",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "099adcfe-0284-4bcb-8279-7e733f282323",
+      "spotNumber" : "F2-L5",
+      "type" : "LARGE",
+      "occupied" : false,
+      "vehicleId" : null
+    } ]
+  }, {
+    "id" : "cfe21d5a-5fa1-4de0-87f9-c28d11a374a5",
+    "floorNumber" : 3,
+    "spots" : [ {
+      "id" : "44470e64-53e1-4d9f-bdfe-605bf1e7ced8",
+      "spotNumber" : "F3-L1",
+      "type" : "LARGE",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "20195b1a-d69f-4ff2-bc96-8b047f7eaf48",
+      "spotNumber" : "F3-L2",
+      "type" : "LARGE",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "300b0c1a-af90-447e-ad83-9837002cbf5f",
+      "spotNumber" : "F3-L3",
+      "type" : "LARGE",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "ca206c07-f232-4779-b726-c8f10d56dcb9",
+      "spotNumber" : "F3-L4",
+      "type" : "LARGE",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "ec75e520-5f2f-414c-8aa0-97832d858449",
+      "spotNumber" : "F3-L5",
+      "type" : "LARGE",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "04e0f11f-8524-41b8-8407-85c9c2c0cd76",
+      "spotNumber" : "F3-L6",
+      "type" : "LARGE",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "a181bfc5-b296-436e-8ab3-d4afd72f052d",
+      "spotNumber" : "F3-L7",
+      "type" : "LARGE",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "aa8bbce3-10d0-4753-bf1d-0b5b5ffdb166",
+      "spotNumber" : "F3-L8",
+      "type" : "LARGE",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "ca176492-617b-4c62-b31a-aaf04ab37f4a",
+      "spotNumber" : "F3-L9",
+      "type" : "LARGE",
+      "occupied" : false,
+      "vehicleId" : null
+    }, {
+      "id" : "f936adaf-bc97-43d3-8c27-f5afd591db5b",
+      "spotNumber" : "F3-L10",
+      "type" : "LARGE",
+      "occupied" : false,
+      "vehicleId" : null
+    } ]
+  }, {
+    "id" : "8cb628b9-3459-48bd-b197-8c669c902e44",
+    "floorNumber" : 10,
+    "spots" : [ ]
+  } ],
+  "tickets" : [ {
+    "id" : "TKT-E764B055",
+    "vehicle" : {
+      "id" : "c31acd68-7d50-4fa1-b527-71b641093a31",
+      "licensePlate" : "TEST-CAR-001",
+      "type" : "CAR"
+    },
+    "spotId" : "733bcc5a-6905-41ae-a8c5-c475238efd9e",
+    "floorId" : "aa3dcf4e-7177-41a7-9b00-d1395492f302",
+    "floorNumber" : 1,
+    "spotNumber" : "F1-M1",
+    "spotType" : "MEDIUM",
+    "entryTime" : "2026-05-15T20:57:44.894881",
+    "exitTime" : "2026-05-15T20:57:44.91957",
+    "status" : "PAID",
+    "amount" : 2.0
+  }, {
+    "id" : "TKT-A060F0F4",
+    "vehicle" : {
+      "id" : "b297d86b-8963-4777-b60c-6b6ed49dc173",
+      "licensePlate" : "TEST-MOTO-001",
+      "type" : "MOTORCYCLE"
+    },
+    "spotId" : "131388eb-3000-4f14-85c8-277c8f2a2cd6",
+    "floorId" : "aa3dcf4e-7177-41a7-9b00-d1395492f302",
+    "floorNumber" : 1,
+    "spotNumber" : "F1-S1",
+    "spotType" : "SMALL",
+    "entryTime" : "2026-05-15T20:57:44.901459",
+    "exitTime" : null,
+    "status" : "ACTIVE",
+    "amount" : null
+  } ]
+}
